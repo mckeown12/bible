@@ -1,0 +1,10 @@
+pyro-ppl==1.7.0
+torch
+sklearn
+pandas
+numpy
+tqdm
+wordcloud
+matplotlib
+typer
+selenium
